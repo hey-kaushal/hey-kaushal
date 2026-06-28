@@ -1,148 +1,130 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kaushal</h1>
 
-# Hi 👋, I'm Kaushal
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Building+Spring+Boot+%26+Next.js+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Building+Something+New+🚀"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Spring+Boot+Developer;Open+Source+Learner;Always+Building+Something+Awesome+🚀" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=DevOps%20Portfolio&fontSize=50&fontColor=ffffff"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Information Technology Student
+I'm an **Information Technology student** passionate about building real-world software and learning modern development practices.
 
-☁️ Passionate about DevOps, Cloud Computing & DevSecOps
+I enjoy developing **Spring Boot**, **Next.js**, and **Node.js** applications while exploring **Docker, Jenkins, Kubernetes, Terraform, AWS, and PostgreSQL**.
 
-🐳 Building scalable cloud-native applications
+Currently, I'm focused on creating production-ready projects that combine **Software Engineering** with **Cloud & DevOps** practices.
 
-💻 Strong in Java, Spring Boot & Linux
+---
 
-📚 Currently Learning
+## 🚀 Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nextjs,nodejs,react,tailwind,postgres,mysql,docker,kubernetes,jenkins,terraform,aws,linux,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🛠️ Technologies
+
+<table>
+<tr>
+<td>
+
+### Languages
+- Java
+- JavaScript
+- SQL
+
+</td>
+
+<td>
+
+### Backend
+- Spring Boot
+- Node.js
+- REST APIs
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Frontend
+- Next.js
+- React
+- Tailwind CSS
+
+</td>
+
+<td>
+
+### Database
+- PostgreSQL
+- MySQL
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### DevOps
+- Docker
+- Jenkins
 - Kubernetes
 - Terraform
-- GitHub Actions
-- Prometheus
-- Grafana
-- ArgoCD
+- AWS
 
-🎯 Goal
+</td>
 
-Become a Professional DevOps Engineer.
+<td>
 
----
+### Tools
+- Git
+- GitHub
+- Linux
+- VS Code
 
-# ⚡ Tech Stack
-
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp"/>
-</p>
-
-### 🚀 DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions"/>
-</p>
-
-### 💻 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
-</p>
-
-### 🛢 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
-### 🖥 OS & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4)
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 DevSecOps Job Portal | Next.js + Spring Boot + PostgreSQL + Docker + Kubernetes + Jenkins |
-| ☁️ AWS Infrastructure | Terraform + EC2 + VPC + IAM |
-| 🐳 Docker Labs | Production Docker Images |
-| ☸ Kubernetes | Deployments, Services, Ingress |
-| 🔥 CI/CD Pipelines | Jenkins + GitHub Actions |
-| 📊 Monitoring Stack | Prometheus + Grafana |
-
----
-
-# 📚 Current Learning Roadmap
-
-✅ Git
-
-✅ Linux
-
-✅ Docker
-
-✅ Jenkins
-
-✅ AWS
-
-🚧 Terraform
-
-🚧 Kubernetes
-
-🚧 Helm
-
-🚧 ArgoCD
-
-🚧 Monitoring
-
-🚧 GitOps
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -152,20 +134,10 @@ Become a Professional DevOps Engineer.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+*"Code. Learn. Build. Improve. Repeat."*
 
 </div>
