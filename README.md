@@ -79,31 +79,28 @@ My goal is to build production-ready applications and continuously improve my so
 
 ## 📫 Connect With Me
 
-<p align="center">
+---
 
-<a href="https://linkedin.com/in/kaushalx21" target="_blank">
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="kaushal2132002@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-</p>
+<br><br>
 
----
+*"Building modern software with Spring Boot, Next.js, and DevOps."*
 
-<p align="center">
+<br>
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
-</p>
-
-<p align="center">
-
-<b>Code • Build • Automate • Deploy • Repeat</b>
-
-</p>
+</div>
 ```
+
