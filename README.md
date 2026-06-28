@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Building+Spring+Boot+%26+Next.js+Applications;Working+on+DevOps+%26+Cloud+Projects;Always+Learning+Something+New+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Building+Spring+Boot+%26+Next.js+Applications;Working+on+DevOps+%26+Cloud+Projects;Always+Learning+Something+New+🚀"/>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 I'm an **Information Technology student** passionate about building scalable software and solving real-world problems through code.
 
-I enjoy developing applications using **Spring Boot, Next.js, Node.js, PostgreSQL, and Java**, while applying **Docker, Jenkins, Kubernetes, Terraform, AWS, and Linux** to automate development and deployment workflows.
+I enjoy developing applications using **Spring Boot, Next.js, Node.js, Java, and PostgreSQL**, while applying **Docker, Jenkins, Kubernetes, Terraform, AWS, Linux, and Git** to automate development and deployment workflows.
 
-My goal is to build production-ready applications while continuously improving my software engineering and cloud skills.
+My goal is to build production-ready applications and continuously improve my software engineering, cloud, and DevOps skills.
 
 ---
 
@@ -25,13 +25,13 @@ My goal is to build production-ready applications while continuously improving m
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nextjs,nodejs,react,tailwind,postgres,mysql,docker,kubernetes,jenkins,terraform,aws,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nextjs,nodejs,react,tailwind,postgres,mysql,docker,kubernetes,jenkins,terraform,aws,linux,git,github,bash,vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -49,7 +49,7 @@ My goal is to build production-ready applications while continuously improving m
 
 ---
 
-## ⚡ Technologies
+## ⚡ Technologies I Work With
 
 <p align="center">
 
@@ -61,23 +61,19 @@ My goal is to build production-ready applications while continuously improving m
 
 ## 🐍 Contribution Snake
 
-> **After setting up GitHub Actions this animation will automatically appear.**
+> *(After setting up the GitHub Action, the snake animation will appear automatically.)*
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/hey-kaushal/hey-kaushal/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+<img src="https://raw.githubusercontent.com/hey-kaushal/hey-kaushal/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </p>
 
 ---
 
-## 💡 Favorite Quote
-
-<div align="center">
-
-> **"Turning ideas into scalable applications with clean code, automation, and continuous learning."**
-
-</div>
+<p align="center">
+<i>"Turning ideas into scalable applications with clean code, automation, and continuous learning."</i>
+</p>
 
 ---
 
@@ -85,25 +81,29 @@ My goal is to build production-ready applications while continuously improving m
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/kaushalx21" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="kaushal2132002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-*"Code • Build • Automate • Deploy • Repeat"*
+</p>
 
-</div>
+<p align="center">
+
+<b>Code • Build • Automate • Deploy • Repeat</b>
+
+</p>
 ```
